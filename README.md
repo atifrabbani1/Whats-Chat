@@ -11,7 +11,7 @@ After user navigates to website, they will be seeing the login page first. They 
 
 DEPLOYED VERSION LINKS:
 HEROKU Link: https://project2-whats-chat.herokuapp.com/
-Github Link: https://github.com/jboe26/WhatsChat.git
+Github Link: https://github.com/atifrabbani1/Whats-Chat.git
 
 TECHNOLOGIES USED:
 Node JS, Express JS, Sequelize ORM, Handlebars, Bootstrap, MySQL, Socket IO, Passport NPM, ESLint, Heroku, Bcrypt.
