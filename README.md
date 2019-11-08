@@ -17,8 +17,4 @@ TECHNOLOGIES USED:
 Node JS, Express JS, Sequelize ORM, Handlebars, Bootstrap, MySQL, Socket IO, Passport NPM, ESLint, Heroku, Bcrypt.
 
 MY ROLE:
-This app is developed by the group of 4 people.
-Atif Rabbani
-Jarkko Haarla
-Josh Boepple
-Zion Austin Brown
+This app is developed solely by me.
